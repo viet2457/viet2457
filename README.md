@@ -16,7 +16,7 @@
         </p>
     </div>
  <h1>💫 About Me:</h1>
-👋 Hi, I'm Nguyễn Hoàng Việt !<br><br> 🏡 I'm living in <code>Tuy Hoa city</code> in <code>Viet Nam country</code>👈 <br><br>💬 I study at Vietnam - Korea University, majoring in network and information security. <br><br>👀 I am a web pentester with passion and deep research in the field of web security and applications in the cybersecurity industry. 
+👋 Hi, I'm Nguyễn Hoàng Việt !<br><br>💬 I study at Vietnam - Korea University, majoring in network and information security. <br><br>👀 I am a web pentester with passion and deep research in the field of web security and applications in the cybersecurity industry. 
 
 
 ## 🌐 Socials:
