@@ -16,8 +16,7 @@
         </p>
     </div>
  <h1>💫 About Me:</h1>
-👋 Hi, I'm Nguyễn Hoàng Việt !<br><br> 🏡 I'm living in <code>Tuy Hoa city</code> in <code>Viet Nam country</code>👈 <br><br>💬 I study at Vietnam - Korea University, majoring in network and information security. <br><br>👀 I am a web pentester with passion and deep research in the field of web security and applications in the cybersecurity industry. I always challenge myself to have the opportunity to develop my professional skills and improve my knowledge to meet the increasing demands of the job.<br><br>🌱 Currently, Having a lot of experience in finding vulnerablilities of website such as : SQL Injection , File Upload , XSS , CSRF ,..  .<br><br>💞️ I can build a website with any vulnerability to understand how it works and come up with effective prevention methods. <br><br><a href="#documentation" title="Documentation">📖</a> I can use various tool to pentest a website like : NMAP , WPSCAN , Gobuster , Metasploit , SET ,...  <br><br>📫 You can contact me via email viethoangnguyen2511@gmail.com<br><br>
-
+👋 Hi, I'm Nguyễn Hoàng Việt !<br><br> 🏡 I'm living in <code>Tuy Hoa city</code> in <code>Viet Nam country</code>👈 <br><br>💬 I study at Vietnam - Korea University, majoring in network and information security. <br><br>👀 I am a web pentester with passion and deep research in the field of web security and applications in the cybersecurity industry. 
 
 
 ## 🌐 Socials:
