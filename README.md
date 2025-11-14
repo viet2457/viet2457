@@ -16,7 +16,7 @@
         </p>
     </div>
  <h1>💫 About Me:</h1>
-👋 Hi, I'm Nguyễn Hoàng Việt !<br><br>💬 I study at Vietnam - Korea University, majoring in network and information security. <br>
+👋 Hi, I'm Nguyễn Hoàng Việt !<br><br>💬 I study at Vietnam - Korea University, majoring in information technology. <br>
 
 
 ## 🌐 Socials:
