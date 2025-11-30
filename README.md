@@ -19,13 +19,5 @@
 👋 Hi, I'm Nguyễn Hoàng Việt !<br><br>💬 I study at Vietnam - Korea University, majoring in information technology. <br>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Viethoang1412/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nguyenhoangviet65/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0ng-vi%E1%BB%87t-5025081b5/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@hoangvietlyric) 
-
-
-## Programming Languages
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viet2457&layout=compact&theme=tokyonight"/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viet2457&show_icons=true&locale=en" alt="viet2457" /></p>
-
 
 
