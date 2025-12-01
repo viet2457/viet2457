@@ -1,23 +1,101 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-      <center>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+name+is+Viet.I'm+22+years+old;I+am+a+Student+and+a+Web+Developer." alt="Typing SVG" />
-      </center>
-    </a>
-    </div>
-    <div align ="center">
-        <p>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS-Linux">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
-        <!-- </p>
-        <p> -->
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS-Windown">
-        <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="windows-11">
-        </p>
-    </div>
- <h1>💫 About Me:</h1>
-👋 Hi, I'm Nguyễn Hoàng Việt !<br><br>💬 I study at Vietnam - Korea University, majoring in information technology. <br>
 
+# Hi there, I'm Nguyen Hoang Viet 👋
 
+### 🚀 Recent IT Graduate | Aspiring Web Application Developer
 
+![Visitor Count](https://komarev.com/ghpvc/?username=viet2457&label=Profile%20Views&color=0e75b6&style=flat)
 
+---
+
+<p align="left"> 
+I am a senior IT student at <b>Vietnam - Korea University (VKU)</b> with a strong passion for building robust <b>Backend Systems</b> and <b>Web Applications</b>. <br><br>
+Currently transitioning from a general IT background to a specialized career in <b>Software Development</b>. My focus is on mastering <b>Java Spring Boot</b> ecosystems, containerization with <b>Docker</b>, and understanding <b>Web Security</b> principles to build not just functional, but secure applications.
+</p>
+
+[📫 Contact Me](mailto:viethoangnguyen2511@gmail.com) • [🔗 My Projects](#-featured-project)
+
+</div>
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Languages & Frameworks** <br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Databases & Infrastructure** <br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools & Security** <br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+</div>
+
+<br>
+
+## 🚀 Featured Project
+
+### 🛡️ Web Application Security Lab: File Upload Vulnerability
+> *A containerized research environment to simulate and analyze RCE vulnerabilities.*
+
+This project demonstrates my ability to combine **Backend Development** with **Security Awareness**. I built a vulnerable web application to study how Unrestricted File Upload attacks work and how to prevent them in production code.
+
+| **Role** | **Tech Stack** | **Status** |
+| :--- | :--- | :--- |
+| **Sole Developer** | Java Spring Boot, Docker, MySQL | ✅ Completed (Oct 2025) |
+
+**💡 Key Highlights:**
+* **Containerization:** Fully containerized using **Docker** to create an isolated sandbox environment for safe testing.
+* **Simulation:** Successfully simulated Remote Code Execution (RCE) scenarios using malicious JSP scripts.
+* **Security Analysis:** Used **Burp Suite** to intercept requests and bypass client-side validation.
+* **Remediation:** Implemented backend fixes including MIME-type validation and filename randomization.
+
+<p align="left">
+  <a href="https://github.com/viet2457/Upload_File">
+    <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
+  </a>
+</p>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Viet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viet2457&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viet2457&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+<br>
+
+## 🌱 Growth & Learning
+
+I believe that a good developer never stops learning. Here is what I am focusing on right now:
+* **Advanced Spring Boot:** Microservices architecture and REST API best practices.
+* **System Design:** Understanding scalability and database optimization.
+* **CI/CD:** Automating deployment pipelines with GitHub Actions.
+
+<br>
+
+## 🏆 Activities & Certifications
+
+* **Club President (Foreign Language Club - VKU):** Led a team to organize workshops and English classes, enhancing leadership and communication skills (2023-2024).
+* **IELTS 5.0:** Certified in Oct 2025.
+
+<br>
+
+---
+<div align="center">
+  <p><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
+  <p>📍 Ho Chi Minh City, Vietnam</p>
+</div>
