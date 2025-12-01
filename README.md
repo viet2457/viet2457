@@ -100,7 +100,7 @@ This project demonstrates my ability to build traditional **MVC Web Applications
 
 | **Role** | **Tech Stack** | **Status** |
 | :--- | :--- | :--- |
-| **Full-Stack Developer** | Laravel, PHP, MySQL, Node.js | ✅ Completed |
+| **Full-Stack Developer** | Laravel, PHP, MySQL| ✅ Completed |
 
 **💡 Key Highlights:**
 * **MVC Architecture:** Applied industry-standard Model-View-Controller patterns using **Laravel** for clean and maintainable code.
