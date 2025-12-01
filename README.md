@@ -130,8 +130,3 @@ I believe that a good developer never stops learning. Here is what I am focusing
 
 <br>
 
----
-<div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
-  <p>📍 Ho Chi Minh City, Vietnam</p>
-</div>
