@@ -28,9 +28,11 @@ Currently transitioning from a general IT background to a specialized career in 
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 **Databases & Infrastructure** <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Tools & Security** <br>
@@ -64,6 +66,31 @@ This project demonstrates my ability to combine **Backend Development** with **S
     <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
   </a>
 </p>
+<br>
+
+<br>
+
+### 💉 SQL Injection Simulation Platform
+> *An educational Spring Boot application designed to analyze advanced SQL Injection vectors.*
+
+This project serves as a security research lab, simulating complex SQL Injection scenarios on **Microsoft SQL Server (MSSQL)**. It allows developers to understand attack vectors deeply to write more secure code.
+
+| **Role** | **Tech Stack** | **Status** |
+| :--- | :--- | :--- |
+| **Security Engineer** | Java 21, Spring Boot 3, MSSQL | ✅ Completed |
+
+**💡 Key Highlights:**
+* **Advanced Attack Vectors:** Simulated various injection types including **Blind SQLi (Time/Boolean-based)**, **Second Order Injection**, and **Stacked Queries**.
+* **Database Deep Dive:** Explored **MSSQL** specific syntax and database structure manipulations (e.g., `WAITFOR DELAY`, `information_schema`).
+* **Modern Stack:** Built on the latest **Java 21** and **Spring Boot 3.2.0** with Thymeleaf for dynamic view rendering.
+* **Security Testing:** Designed specific payloads to bypass basic authentication and extract sensitive data via UNION attacks.
+
+<p align="left">
+  <a href="LINK_REPO_CUA_BAN_O_DAY">
+    <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
+  </a>
+</p>
+
 <br>
 
 ### 💻 LaptopLT - E-commerce Platform
