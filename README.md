@@ -27,6 +27,7 @@ Currently transitioning from a general IT background to a specialized career in 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Databases & Infrastructure** <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -66,6 +67,26 @@ This project demonstrates my ability to combine **Backend Development** with **S
 
 <br>
 
+### 💻 LaptopLT - E-commerce Platform
+> *A full-featured laptop retail application built with the Laravel PHP framework.*
+
+This project demonstrates my ability to build traditional **MVC Web Applications**. I developed a complete e-commerce solution that manages product inventories, handles user sessions, and interacts efficiently with a relational database.
+
+| **Role** | **Tech Stack** | **Status** |
+| :--- | :--- | :--- |
+| **Full-Stack Developer** | Laravel, PHP, MySQL, Node.js | ✅ Completed |
+
+**💡 Key Highlights:**
+* **MVC Architecture:** Applied industry-standard Model-View-Controller patterns using **Laravel** for clean and maintainable code.
+* **Database Design:** Structured complex relational data in **MySQL** to manage products, categories, and orders.
+* **Full-Stack Integration:** Managed frontend assets with **NPM** and integrated them seamlessly with Blade templates.
+* **Environment Management:** Configured secure environment variables and dependency management via **Composer**.
+
+<p align="left">
+  <a href="https://github.com/viet2457/LaptopLT">
+    <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
+  </a>
+</p>
 
 ## 🌱 Growth & Learning
 
