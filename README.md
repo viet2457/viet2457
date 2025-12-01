@@ -65,6 +65,7 @@ This project demonstrates my ability to combine **Backend Development** with **S
   </a>
 </p>
 <br>
+
 ### 💻 LaptopLT - E-commerce Platform
 > *A full-featured laptop retail application built with the Laravel PHP framework.*
 
