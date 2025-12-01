@@ -66,17 +66,6 @@ This project demonstrates my ability to combine **Backend Development** with **S
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Viet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viet2457&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viet2457&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-<br>
 
 ## 🌱 Growth & Learning
 
