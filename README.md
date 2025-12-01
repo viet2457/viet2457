@@ -86,7 +86,7 @@ This project serves as a security research lab, simulating complex SQL Injection
 * **Security Testing:** Designed specific payloads to bypass basic authentication and extract sensitive data via UNION attacks.
 
 <p align="left">
-  <a href="LINK_REPO_CUA_BAN_O_DAY">
+  <a href="https://github.com/viet2457/SQLI_JavaSpring">
     <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
   </a>
 </p>
