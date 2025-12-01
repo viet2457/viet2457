@@ -64,9 +64,7 @@ This project demonstrates my ability to combine **Backend Development** with **S
     <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
   </a>
 </p>
-
 <br>
-
 ### 💻 LaptopLT - E-commerce Platform
 > *A full-featured laptop retail application built with the Laravel PHP framework.*
 
