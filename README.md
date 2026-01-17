@@ -46,6 +46,23 @@ Currently transitioning from a general IT background to a specialized career in 
 
 ## 🚀 Featured Project
 
+### 🧠 Deepfake Image Detection using Deep Learning
+**💡 Key Highlights:**
+* **Automated Deepfake Detection** : Developed an automated deepfake image detection system using **EfficientNetB0** with **transfer learning**.
+
+* **End-to-End Pipeline** : Built a complete processing pipeline including **face extraction (MTCNN)**, data preprocessing, and image normalization.
+
+* **Advanced Data Augmentation** : Applied **traditional image augmentation** techniques and **GAN-based data synthesis (DCGAN)** to enhance model generalization and robustness.
+
+* **High Accuracy on CPU-only Setup** : Achieved **95% test accuracy** on the **FaceForensics++** dataset while training **entirely on a CPU environment**.
+
+<p align="left">
+  <a href="https://github.com/viet2457/Upload_File">
+    <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
+  </a>
+</p>
+<br>
+
 ### 🛡️ Web Application Security Lab: File Upload Vulnerability
 > *A containerized research environment to simulate and analyze RCE vulnerabilities.*
 
