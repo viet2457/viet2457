@@ -47,6 +47,11 @@ Currently transitioning from a general IT background to a specialized career in 
 ## 🚀 Featured Project
 
 ### 🧠 Deepfake Image Detection using Deep Learning
+
+| **Role** | **Tech Stack** | **Status** |
+| :--- | :--- | :--- |
+| **Sole Researcher & Developer** | Python, TensorFlow, Keras, EfficientNetB0, MTCNN, DCGAN, OpenCV, NumPy | ✅ Completed |
+
 **💡 Key Highlights:**
 * **Automated Deepfake Detection** : Developed an automated deepfake image detection system using **EfficientNetB0** with **transfer learning**.
 
