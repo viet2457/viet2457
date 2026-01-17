@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi there, I'm Nguyen Hoang Viet 👋
 
@@ -7,11 +7,35 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=viet2457&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
+## 👋 Hi, I'm an Information Security Student & Security-Oriented Developer
 
-<p align="left"> 
-I am a senior IT student at <b>Vietnam - Korea University (VKU)</b> with a strong passion for building robust <b>Backend Systems</b> and <b>Web Applications</b>. <br><br>
-Currently transitioning from a general IT background to a specialized career in <b>Software Development</b>. My focus is on mastering <b>Java Spring Boot</b> ecosystems, containerization with <b>Docker</b>, and understanding <b>Web Security</b> principles to build not just functional, but secure applications.
-</p>
+I am an **Information Security student** with strong interests in **AI for Cybersecurity**, **Web Application Security**, and **Security Research Labs**.  
+My projects focus on **understanding attack techniques by building vulnerable systems**, then **designing defensive solutions** using modern technologies such as **Deep Learning, Secure Backend Development, and Containerization**.
+
+I enjoy working at the intersection of **security, software engineering, and applied research**, with hands-on experience in:
+- **Deepfake detection & media forgery defense**
+- **Web vulnerabilities (File Upload, SQL Injection, RCE)**
+- **Backend systems and secure architecture**
+- **AI-assisted security analysis**
+
+---
+
+### 🧠 Areas of Interest
+- AI & Machine Learning for Cybersecurity  
+- Digital Forensics & Content Authenticity Verification  
+- Web Application Security (OWASP Top 10)  
+- Secure Backend Development  
+- Adversarial Thinking & Threat Modeling  
+
+---
+
+### 🛠️ Technical Skills
+- **Languages:** Python, Java, PHP  
+- **AI / ML:** TensorFlow, Keras, EfficientNet, GANs (DCGAN), Computer Vision  
+- **Security:** Web Security Testing, SQL Injection, File Upload Vulnerabilities, RCE Analysis  
+- **Backend:** Spring Boot, Laravel, RESTful APIs  
+- **Databases:** MySQL, Microsoft SQL Server  
+- **Tools & Platforms:** Docker, Burp Suite, Git, Linux  
 
 [📫 Contact Me](mailto:viethoangnguyen2511@gmail.com) • [🔗 My Projects](#-featured-project)
 
