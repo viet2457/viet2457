@@ -91,7 +91,6 @@ I enjoy working at the intersection of **security, software engineering, and app
     <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
   </a>
 </p>
-<br>
 
 ### 🛡️ Web Application Security Lab: File Upload Vulnerability
 > *A containerized research environment to simulate and analyze RCE vulnerabilities.*
@@ -113,9 +112,6 @@ This project demonstrates my ability to combine **Backend Development** with **S
     <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
   </a>
 </p>
-<br>
-
-<br>
 
 ### 💉 SQL Injection Simulation Platform
 > *An educational Spring Boot application designed to analyze advanced SQL Injection vectors.*
@@ -137,8 +133,6 @@ This project serves as a security research lab, simulating complex SQL Injection
     <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
   </a>
 </p>
-
-<br>
 
 ### 💻 LaptopLT - E-commerce Platform
 > *A full-featured laptop retail application built with the Laravel PHP framework.*
@@ -163,10 +157,23 @@ This project demonstrates my ability to build traditional **MVC Web Applications
 
 ## 🌱 Growth & Learning
 
-I believe that a good developer never stops learning. Here is what I am focusing on right now:
-* **Advanced Spring Boot:** Microservices architecture and REST API best practices.
-* **System Design:** Understanding scalability and database optimization.
-* **CI/CD:** Automating deployment pipelines with GitHub Actions.
+I believe that building secure systems requires both **hands-on attack analysis** and **defensive engineering skills**.  
+Based on my current projects, I am focusing on the following learning directions:
+
+- **AI for Security & Digital Forensics:**  
+  Expanding research on deepfake detection, GAN-based attacks, and AI-driven content authenticity verification.
+
+- **Secure Backend Development:**  
+  Improving backend architecture design using **Spring Boot**, with emphasis on secure coding practices and vulnerability mitigation.
+
+- **Web Application Security Research:**  
+  Continuously studying real-world vulnerabilities such as **File Upload**, **SQL Injection**, and **RCE** through custom-built security labs.
+
+- **System Design & Scalability:**  
+  Learning how to design scalable, maintainable systems and optimize database performance in production environments.
+
+- **DevSecOps Foundations:**  
+  Exploring **Docker-based deployments** and **CI/CD pipelines** to integrate security into the development lifecycle.
 
 <br>
 
