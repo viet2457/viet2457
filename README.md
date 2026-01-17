@@ -74,7 +74,7 @@ I enjoy working at the intersection of **security, software engineering, and app
 
 | **Role** | **Tech Stack** | **Status** |
 | :--- | :--- | :--- |
-| **Sole Researcher & Developer** | Python, TensorFlow, Keras, EfficientNetB0, MTCNN, DCGAN, OpenCV, NumPy | ✅ Completed |
+| **Sole Researcher & Developer** | Python, TensorFlow, Keras, EfficientNetB0, MTCNN, DCGAN, OpenCV, NumPy | ✅ Completed(Jan 2026) |
 
 **💡 Key Highlights:**
 * **Automated Deepfake Detection** : Developed an automated deepfake image detection system using **EfficientNetB0** with **transfer learning**.
