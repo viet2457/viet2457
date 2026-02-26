@@ -7,10 +7,9 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=viet2457&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
-## 👋 Hi, I'm an Information Security Student & Security-Oriented Developer
+## 👋 Hi, I'm an Software Engineer and Information Security student
 
-I am an **Information Security student** with strong interests in **AI for Cybersecurity**, **Web Application Security**, and **Security Research Labs**.  
-My projects focus on **understanding attack techniques by building vulnerable systems**, then **designing defensive solutions** using modern technologies such as **Deep Learning, Secure Backend Development, and Containerization**.
+As a newly graduated Information Technology student, I plan to develop a career in the field of Application Operations. I have a hands-on background in deploying, operating, and monitoring web applications with Java, Docker, Linux, and database management systems, along with knowledge of system security and troubleshooting. My goal is to become an Application Operations Specialist, capable of ensuring system stability, safety and performance, while constantly learning to improve operating skills in real environments.
 
 I enjoy working at the intersection of **security, software engineering, and applied research**, with hands-on experience in:
 - **Deepfake detection & media forgery defense**
