@@ -86,7 +86,7 @@ I enjoy working at the intersection of **security, software engineering, and app
 * **High Accuracy on CPU-only Setup** : Achieved **95% test accuracy** on the **FaceForensics++** dataset while training **entirely on a CPU environment**.
 
 <p align="left">
-  <a href="https://github.com/viet2457/Upload_File">
+  <a href="https://github.com/viet2457/Deepfake-Detection-EfficientNetB0-model">
     <img src="https://img.shields.io/badge/View_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
   </a>
 </p>
