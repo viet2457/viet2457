@@ -1,4 +1,4 @@
-<div align="left">
+<!-- <div align="left">
 
 # Hi there, I'm Nguyen Hoang Viet 👋
 
@@ -182,4 +182,4 @@ Based on my current projects, I am focusing on the following learning directions
 * **IELTS 5.0:** Certified in Oct 2025.
 
 <br>
-
+ -->
